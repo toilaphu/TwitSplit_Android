@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwitSplit</string>
+    <string name="input_message">What\'s happening?</string>
+    <string name="send_button">Tweet</string>
+    <string name="error_longer_than_limit_character">The message contains a span of non-whitespace characters longer than %d characters</string>
+    <string name="empty_message_notice">Please enter your message!</string>
+</resources>
